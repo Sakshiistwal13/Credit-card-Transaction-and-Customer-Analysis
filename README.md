@@ -10,8 +10,10 @@ Introducing the Credit Card Financial Dashboard project built with Power BI, des
 3. Dashboard & Insights
 
 ##Dashboard:
- ![]()
+ ![Credit_card_dashboard](https://github.com/Sakshiistwal13/Credit-card-Transaction-and-Customer-Analysis/blob/main/Credit_card_transaction.png)
+ ![Customer_dashboard](https://github.com/Sakshiistwal13/Credit-card-Transaction-and-Customer-Analysis/blob/main/Customer%20Analysis.png)
 
+ 
  ##Key Insights:
 
 1) Credit Card Transaction Analysis:
